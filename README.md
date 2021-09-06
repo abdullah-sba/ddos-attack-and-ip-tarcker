@@ -1,2 +1,7 @@
 # ddos-attack-and-ip-tarcker
-do not miss use
+
+$ apt update -y
+
+
+
+
