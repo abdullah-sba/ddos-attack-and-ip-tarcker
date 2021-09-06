@@ -1,6 +1,6 @@
 # ddos-attack-and-ip-tarcker
 
-#Command 
+# Command 
 
 $ apt update -y
 
