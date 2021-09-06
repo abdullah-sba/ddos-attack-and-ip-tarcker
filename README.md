@@ -21,4 +21,6 @@ $ python 'ddos attack and get ip.py'
 user : Abdullah
 pass : Abdullah
 
+Thank for using my tool ❤️❤️
+
 
